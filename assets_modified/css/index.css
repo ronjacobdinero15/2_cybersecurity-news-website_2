@@ -1,0 +1,27 @@
+/* DARK MODE TOGGLE*/
+.dark-mode {
+  background-color: black !important;
+  color: white;
+}
+.dark-mode-invert {
+  filter: invert(100%);
+}
+.caption-border {
+  border-top: solid 1px red;
+  border-right: solid 1px red;
+}
+/* NAV */
+.dark-mode-btn {
+  border: none;
+  background-color: transparent;
+}
+.dark-mode-btn img {
+  width: 50px;
+}
+/* ASIDE - RIGHT */
+.aside-news-img {
+  width: 120px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+}
